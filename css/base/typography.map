@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "typography.css",
+	"sources": [
+		"../../scss/base/typography.scss"
+	],
+	"sourcesContent": [
+		"/* ============================================= */\r\n/*              Base styles                      */\r\n/* ============================================= */\r\n\r\n* {\r\n    font-family: 'Lato', sans-serif;\r\n    color: #777;\r\n    box-sizing: border-box;\r\n  }\r\n  \r\n  p {\r\n    line-height: 1.45em;\r\n  }\r\n  \r\n  a {\r\n    text-decoration: none;\r\n  }\r\n  \r\n  \r\n  /* ============================================= */\r\n  /*              Typography                       */\r\n  /* ============================================= */\r\n  \r\n  .headline-primary {\r\n    color: #58e1c1;\r\n    margin-left: 10px;\r\n  }\r\n  \r\n  .headline-secondary {\r\n    font-weight: 300;\r\n    color: #777;\r\n  }\r\n  \r\n  .link {\r\n    color: #51ddfc;\r\n    font-weight: 700;\r\n  }\r\n  \r\n  .blockquote {\r\n    font-size: 1.5em;\r\n    font-weight: 300;\r\n    font-style: italic;\r\n    margin-left: 20px;\r\n    padding-left: 20px;\r\n    border-left: 8px solid #58e1c1;\r\n    border-radius: 5px;\r\n  }"
+	],
+	"names": [],
+	"mappings": "AAAA,mDAAmD;AACnD,mDAAmD;AACnD,mDAAmD;;AAEnD,AAAA,CAAC,CAAC;EACE,WAAW,EAAE,kBAAkB;EAC/B,KAAK,EAAE,IAAI;EACX,UAAU,EAAE,UAAU;CACvB;;;AAED,AAAA,CAAC,CAAC;EACA,WAAW,EAAE,MAAM;CACpB;;;AAED,AAAA,CAAC,CAAC;EACA,eAAe,EAAE,IAAI;CACtB;;AAGD,mDAAmD;AACnD,mDAAmD;AACnD,mDAAmD;;AAEnD,AAAA,iBAAiB,CAAC;EAChB,KAAK,EAAE,OAAO;EACd,WAAW,EAAE,IAAI;CAClB;;;AAED,AAAA,mBAAmB,CAAC;EAClB,WAAW,EAAE,GAAG;EAChB,KAAK,EAAE,IAAI;CACZ;;;AAED,AAAA,KAAK,CAAC;EACJ,KAAK,EAAE,OAAO;EACd,WAAW,EAAE,GAAG;CACjB;;;AAED,AAAA,WAAW,CAAC;EACV,SAAS,EAAE,KAAK;EAChB,WAAW,EAAE,GAAG;EAChB,UAAU,EAAE,MAAM;EAClB,WAAW,EAAE,IAAI;EACjB,YAAY,EAAE,IAAI;EAClB,WAAW,EAAE,iBAAiB;EAC9B,aAAa,EAAE,GAAG;CACnB"
+}

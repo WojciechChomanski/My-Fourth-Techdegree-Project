@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "veriables.css",
+	"sources": [
+		"../../scss/utilities/veriables.scss"
+	],
+	"sourcesContent": [
+		""
+	],
+	"names": [],
+	"mappings": ""
+}
